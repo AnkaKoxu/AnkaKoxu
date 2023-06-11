@@ -1,5 +1,4 @@
--
-- I'm translator with passion 🇵🇱
+Polish translator with passion 🇵🇱
 
 <!---
 AnkaKoxu/AnkaKoxu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
